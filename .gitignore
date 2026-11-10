@@ -1,0 +1,7 @@
+out/
+__pycache__/
+*.py[cod]
+*.mp4
+*.csv
+timeline.png
+trajectory.jpg
